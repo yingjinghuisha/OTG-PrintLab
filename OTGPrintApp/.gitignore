@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# NDK / CMake 构建产物
+.cxx/
+*.so
+*.o
+
+# 签名密钥 (绝不入库!)
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# 产物与测试输出 (APK 走 GitHub Releases)
+*.apk
+tools/test_output/
+test_output/

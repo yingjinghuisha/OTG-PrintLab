@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- HP DeskJet 2132: VID=0x03F0 PID=0xE111 (抓包 huipu.pcapng 实测) -->
+<resources>
+    <usb-device vendor-id="1008" product-id="57617" />
+    <!-- 兼容文档标注的 0x9111 -->
+    <usb-device vendor-id="1008" product-id="37137" />
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 简易打印机图标 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.5"
+        android:scaleY="0.5"
+        android:translateX="27"
+        android:translateY="27">
+        <!-- 机身 -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M18,42 L18,20 L78,20 L78,42 Z" />
+        <!-- 出纸口 -->
+        <path
+            android:fillColor="#E3F2FD"
+            android:pathData="M26,10 L70,10 L70,20 L26,20 Z" />
+        <!-- 底座 -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M18,42 L82,42 A6,6 0 0 1 88,48 L88,68 A6,6 0 0 1 82,74 L18,74 A6,6 0 0 1 12,68 L12,48 A6,6 0 0 1 18,42 Z" />
+        <!-- 指示灯 -->
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M74,52 m-4,0 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0" />
+        <!-- 打印出的纸 -->
+        <path
+            android:fillColor="#E3F2FD"
+            android:pathData="M30,74 L66,74 L66,94 L30,94 Z" />
+        <!-- 纸上内容线 -->
+        <path
+            android:fillColor="#1976D2"
+            android:pathData="M35,80 L61,80 L61,83 L35,83 Z M35,87 L53,87 L53,90 L35,90 Z" />
+    </group>
+</vector>
