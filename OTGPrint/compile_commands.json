@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/apple/Desktop/项目/OTGPrint/OTGPrintApp/app/.cxx/RelWithDebInfo/6w591s3s/arm64-v8a",
+  "command": "/Users/apple/android-tools/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android26 --sysroot=/Users/apple/android-tools/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dotgprint_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/otgprint.dir/pcl3gui_encoder.cpp.o -c /Users/apple/Desktop/项目/OTGPrint/OTGPrintApp/app/src/main/cpp/pcl3gui_encoder.cpp",
+  "file": "/Users/apple/Desktop/项目/OTGPrint/OTGPrintApp/app/src/main/cpp/pcl3gui_encoder.cpp"
+},
+{
+  "directory": "/Users/apple/Desktop/项目/OTGPrint/OTGPrintApp/app/.cxx/RelWithDebInfo/6w591s3s/arm64-v8a",
+  "command": "/Users/apple/android-tools/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android26 --sysroot=/Users/apple/android-tools/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dotgprint_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/otgprint.dir/jni_api.cpp.o -c /Users/apple/Desktop/项目/OTGPrint/OTGPrintApp/app/src/main/cpp/jni_api.cpp",
+  "file": "/Users/apple/Desktop/项目/OTGPrint/OTGPrintApp/app/src/main/cpp/jni_api.cpp"
+}
+]
